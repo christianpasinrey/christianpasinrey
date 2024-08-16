@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 | Finnished| On-going|
 | ------------- | ------------- |
-| <a href="https://github.com/christianpasinrey/DragonBall.git">Dragon Ball Fan-page / Vue 3</a> | . |
+| . | <a href="https://github.com/christianpasinrey/DragonBall.git">Dragon Ball Fan-page / Vue 3</a> |
 | . | . |
 | . | . |
 | . | . |
