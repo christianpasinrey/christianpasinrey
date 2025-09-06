@@ -45,15 +45,6 @@ Here are some ideas to get you started:
 
 ### Check my projects
 
-| Finnished| On-going|
-| ------------- | ------------- |
-| . | <a href="https://github.com/christianpasinrey/DragonBall.git">Dragon Ball Fan-page / Vue 3</a> |
-| . | . |
-| . | . |
-| . | . |
-| . | . |
-| . | . |
-
 ***
 
 <img width="47%" align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=christianpasinrey&hide_border=true&theme=transparent" />
