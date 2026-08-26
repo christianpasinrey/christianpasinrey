@@ -99,7 +99,7 @@
         <img src="https://img.shields.io/github/languages/top/christianpasinrey/falling-notes?style=flat-square&color=1e1e2e" />
         <img src="https://img.shields.io/github/stars/christianpasinrey/falling-notes?style=flat-square&color=6366F1" />
       </p>
-      <p align="center">A space journey where music becomes visible: 3D piano, volumetric falling notes and pure Web Audio synthesis — Bach, Satie, Beethoven, Debussy, Vivaldi and an original piece.</p>
+      <p align="center">The Mutopia library made visible and playable: 2,124 public-domain pieces falling onto a 3D piano. Play along with a MIDI keyboard, learn note by note, or record your own. Three.js + pure Web Audio.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🗂️ <a href="https://github.com/christianpasinrey/open-aims">open-aims</a></h3>
